@@ -1,5 +1,5 @@
 {
-  "name": "cheerio-",
+  "name": "cheerio-quotes",
   "version": "0.22.0",
   "description": "Cheerio support for single-quoted attributes",
   "author": "Matt Halpern <matthalp@gmail.com>",
